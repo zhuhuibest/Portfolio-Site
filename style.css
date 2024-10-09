@@ -58,6 +58,7 @@ border-radius: 30px;
 }
 .profile-img{
     height: 400px;
+    max-width: 100%;
 }
 .navbar{
     background-color: #418996; 
