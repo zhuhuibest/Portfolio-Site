@@ -186,6 +186,10 @@ border-radius: 30px;
 .projects-box p:hover{
     color: #fff;
 }
+.weatherApp-link{
+    color: grey;
+    font-weight: bold;
+}
 .weatherApp-img-box{
     display: flex;
     justify-content: center;  /* horizontally center */
@@ -193,6 +197,7 @@ border-radius: 30px;
 }
 .weahtherApp-img{
     border-radius: 16px;
+    max-width: 100%;
 }
 .resume-img-box{
     display: flex;
@@ -224,6 +229,9 @@ border-radius: 30px;
 .contact .col-md-4 .fa-brands{
     padding: 10px;
     font-size: 40px;
+}
+.github-link{
+    color: white;
 }
 .contact .btn{
     padding: 10px 25px;
